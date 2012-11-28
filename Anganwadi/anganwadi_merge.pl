@@ -17,11 +17,11 @@ while (<INP>) {
     $stud{$d[6]}{$d[11]} = $d[12];
     $assess{$d[11]} = 1;
 }
-close(INP);
+close(INP);  
 
 # print Dumper(\%stud);
 
-print 'DIST|BLK|CLUST|SCODE|SNAME|MOI|STUID|CSEX|CLANG|CURRNAME|ENAME|';
+print 'DIST|BLK|CLUST|SCODE|SNAME|MOI|STUID|CSEX|CLANG|ASSMNTNAME|PROGNAME|';
 foreach my $ass (sort { $a <=> $b } keys %assess) {
     print join('|', $ass),'|';
 }
