@@ -5,7 +5,7 @@ con=psycopg2.connect(dbname='sslc',user='postgres',password='hello',host='localh
 cur=con.cursor()
 
 def upload():
-	fp=csv.reader(open('/home/brijesh/sslc1.csv','r'),delimiter='|',quotechar='\'')
+	fp=csv.reader(open('/home/brijesh/sslc.csv','r'),delimiter='|',quotechar='\'')
 	i=0
 	for row in fp:
 		if(i!=0):	
