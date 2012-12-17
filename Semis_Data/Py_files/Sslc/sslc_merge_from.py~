@@ -12,13 +12,13 @@ try:
     cur = con.cursor()     
 
     #Running a query to retrieve the contents
-    result="select distinct dist_code,school_code,schoolname from tb_sslcresults where ayid=101"
+    result="select distinct school_code,schoolname,ayid from tb_sslcresults where ayid='101'order by school_code"
     
     cur.execute(result)
 
     #Opening a file with specified headers and adding the data into csv file
-    fp=csv.writer(open('/home/brijesh/klp/Semis_Data/sslc_data/sslc.csv','w'),delimiter='|',quotechar='\'')
-    headers=['District_code','School_code','School_name']
+    fp=csv.writer(open('/home/brijesh/klp/sslc.csv','w'),delimiter='|',quotechar='\'')
+    headers=['School_code','School_name','Academic_id']
     fp.writerow(headers)
     while True:
       

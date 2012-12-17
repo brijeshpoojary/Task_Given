@@ -19,11 +19,11 @@ try:
     con = psycopg2.connect(database='semis',user='postgres',host='localhost',password='hello') 
     cur = con.cursor()     
     
-    fp=csv.reader(open('/home/brijesh/klp/Semis_Data/sslc_data/sslc.csv','r'),delimiter='|',quotechar='\'')
+    fp=csv.reader(open('/home/brijesh/klp/Semis_Data/sslc_data/sslc.csv','r'),delimiter='|',quotechar='\"')
     i=0
     for row in fp:
 	if(i!=0):	
-		cur.execute("insert into sslc_data values('"+row[0]+"','"+row[1]+"','" + rm_spc_char(row[2]) + "')")
+		cur.execute("insert into sslc_data values('"+row[0]+"','"+rm_spc_char(row[1]).strip()+"')")
 	i=i+1
     con.commit()
 except psycopg2.DatabaseError, e:
