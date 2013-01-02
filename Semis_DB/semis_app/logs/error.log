@@ -1,0 +1,146 @@
+[Sun Dec 30 15:48:26 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2651, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:48:39 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2650, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 15:49:43 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2760, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:49:54 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2759, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:51:05 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2873, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:51:15 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2874, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 15:52:37 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2984, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:52:49 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2985, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 15:53:20 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3090, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:54:20 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3197, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:55:50 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3308, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:56:15 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3413, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:56:45 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3517, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:57:31 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3624, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 15:58:05 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3625, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 15:59:51 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3736, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:00:27 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3842, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:01:24 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3948, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:04:14 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4057, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:06:28 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4168, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:06:34 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4169, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 16:09:24 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4280, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:09:29 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4279, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 16:11:27 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4390, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:13:13 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4497, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:14:20 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4607, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:16:11 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4714, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:16:25 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4715, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:17:04 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4829, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:17:12 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4828, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 16:18:09 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4936, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:18:53 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5042, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:19:53 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5149, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:20:59 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5254, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:22:01 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5361, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:22:31 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5462, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:22:53 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5567, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:25:11 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5680, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:25:43 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5784, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:26:32 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5785, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:28:52 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5899, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:50:27 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2119, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:50:45 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2118, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 16:51:54 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2231, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:52:54 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2336, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 16:54:11 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2442, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:56:08 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2561, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:56:55 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2668, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:57:15 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2771, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 16:57:56 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2770, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sun Dec 30 17:01:08 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2881, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sun Dec 30 17:01:39 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2986, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 12:01:40 2012] [info] [client 127.0.0.1] mod_wsgi (pid=1643, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Dec 31 12:01:41 2012] [info] [client 127.0.0.1] mod_wsgi (pid=1642, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 12:34:20 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2745, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Dec 31 12:37:30 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2857, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 12:38:31 2012] [info] [client 127.0.0.1] mod_wsgi (pid=2961, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 12:39:04 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3065, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 12:39:10 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3064, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Dec 31 12:40:14 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3169, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 13:10:48 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3357, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 13:19:40 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3490, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 13:20:55 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3598, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 13:29:12 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3726, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 13:29:19 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3725, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Dec 31 13:31:16 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3843, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 13:35:43 2012] [info] [client 127.0.0.1] mod_wsgi (pid=3968, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 15:26:44 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4391, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 15:28:28 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4504, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 15:30:11 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4614, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 15:30:44 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4613, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Dec 31 15:36:26 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4736, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 15:46:47 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4872, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 15:46:52 2012] [info] [client 127.0.0.1] mod_wsgi (pid=4871, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Dec 31 16:00:02 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5027, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1] Traceback (most recent call last):
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 239, in process
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]     return self.handle()
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 230, in handle
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]     return self._delegate(fn, self.fvars, args)
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 462, in _delegate
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]     return handle_class(cls)
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 438, in handle_class
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]     return tocall(*args)
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 37, in GET
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]     return render.compare(district,values,sslc_schools,semis_schools)
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/template.py", line 881, in __call__
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]     return BaseTemplate.__call__(self, *a, **kw)
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/template.py", line 808, in __call__
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]     return self.t(*a, **kw)
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]   File "templates/compare.html", line 10, in __template__
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1]     for(var i=1;i<sslctable.rows.length;i++){
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1] NameError: global name 'value' is not defined
+[Mon Dec 31 16:00:02 2012] [error] [client 127.0.0.1] 
+[Mon Dec 31 16:00:40 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5136, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:10:23 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5285, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:22:01 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5435, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:24:14 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5548, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:30:40 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5682, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:30:47 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5681, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Dec 31 16:32:39 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5795, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:32:46 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5794, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Dec 31 16:33:25 2012] [info] [client 127.0.0.1] mod_wsgi (pid=5903, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:35:31 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6011, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:36:58 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6122, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:38:41 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6234, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:42:41 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6350, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:43:59 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6459, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:45:39 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6578, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:47:35 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6689, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:48:33 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6690, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:48:50 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6804, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:50:09 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6805, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:51:01 2012] [info] [client 127.0.0.1] mod_wsgi (pid=6928, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:51:53 2012] [info] [client 127.0.0.1] mod_wsgi (pid=7034, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:52:47 2012] [info] [client 127.0.0.1] mod_wsgi (pid=7142, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:54:10 2012] [info] [client 127.0.0.1] mod_wsgi (pid=7252, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Dec 31 16:56:47 2012] [info] [client 127.0.0.1] mod_wsgi (pid=7365, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 11:36:12 2013] [info] [client 127.0.0.1] mod_wsgi (pid=1641, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Wed Jan 02 11:36:13 2013] [info] [client 127.0.0.1] mod_wsgi (pid=1642, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 11:52:26 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2324, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 11:55:57 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2468, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 11:56:29 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2569, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 11:57:02 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2888, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 11:57:15 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2887, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Wed Jan 02 11:57:58 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3018, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 11:58:15 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3119, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 11:58:37 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3118, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Wed Jan 02 11:59:36 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3224, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 12:00:05 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3326, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 12:00:24 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3325, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 12:02:23 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3439, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 12:03:59 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3546, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 12:04:55 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3545, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 12:07:00 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3663, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 12:08:25 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3778, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 12:09:34 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3884, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 12:09:41 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3883, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Wed Jan 02 13:21:09 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4358, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 13:23:05 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4635, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 13:23:20 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4636, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Wed Jan 02 13:26:01 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4750, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 13:27:32 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4856, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 13:27:37 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4855, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Wed Jan 02 13:29:24 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4962, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Wed Jan 02 14:00:53 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4963, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.

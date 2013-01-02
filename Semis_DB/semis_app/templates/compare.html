@@ -1,0 +1,83 @@
+$def with (district,values,sslc_schools,semis_schools)
+<html>
+<head>
+<script>
+function filter(value){
+	
+  	var sslctable = document.getElementById("ssdata");
+	var semistable = document.getElementById("sedata");
+	var school;
+	for(var i=1;i<sslctable.rows.length;i++){
+		school=sslctable.rows[i].innerHTML.replace(/<[^>]+>/g,"|").split("|")[3];
+		res=school.toLowerCase().match(value.toLowerCase());
+		if(res==value.toLowerCase()){
+			sslctable.rows[i].style.display='';
+		}
+		else{
+			sslctable.rows[i].style.display='none';
+		}
+	}
+	for(var i=1;i<semistable.rows.length;i++){
+		school=semistable.rows[i].innerHTML.replace(/<[^>]+>/g,"|").split("|")[3];
+		res=school.toLowerCase().match(value.toLowerCase());
+		if(res==value.toLowerCase()){
+			semistable.rows[i].style.display='';
+		}
+		else{
+			semistable.rows[i].style.display='none';
+		}
+	}
+}
+</script>
+</head>
+<body>
+<form method="post" action="go">
+<left>Select District : <select id="dist" name="dist" onchange="this.form.submit();">
+		<option value="0"></option>
+$for dist in district:
+	$if dist.id==values['dist'].strip():
+		<option value="$dist.id" selected="selected">$dist.name.title()</option>
+	$else:
+		<option value="$dist.id">$dist.name.title()</option>
+</select>
+<br><br>
+Filter by : <input type="text" onkeyup="filter(this.value);">
+</left>
+<br><br>
+<table align="left" width="30%" style="background-color:#A9A9A9;" border="1" cellspacing="0" cellpadding="0">
+<tr><td><h3>Sslc data</h3></td></tr>
+</table>
+
+<table align="center" width="70%" style="background-color:#A9A9A9;" border="1" cellspacing="0" cellpadding="0">
+<tr><td><h3>Semis data</h3></td></tr>
+</table>
+
+<div align="left" style="height: 100%; overflow: auto; width: 30%;float:left;">
+<table id="ssdata" name="ssdata" align="left" width="auto" style="font-size:11;" border="1" cellpadding="5" cellspacing="0">
+<thead>
+<tr><td>School Code</td><td>School Name</td></tr>
+</thead>
+<tbody> 
+$for schools in sslc_schools:
+	<tr><td>$schools.school_code</td><td>$schools.school_name</td></tr>
+</tbody>
+</table>
+</div>
+
+<div align="right" style="height: 100%; width: 70%;float:right;">
+<table id="sedata" name="sedata" align="right" width="auto" style="font-size:11;" border="1" cellpadding="5" cellspacing="0">
+<thead>
+<tr><td>School Code</td><td>School Name</td><td>District Name</td><td>Block Name</td><td>Village Name</td><td>Pincode</td></tr>
+</thead>
+<tbody>
+$for schools in semis_schools:
+	<tr><td>$schools.school_code</td><td>$schools.school_name</td><td>$schools.district_name</td><td>$schools.block_name</td><td>$schools.village_name</td><td>$schools.pincode</td></tr>
+</tbody>
+</table>
+</div>
+
+
+
+</form>
+</body>
+</html>
