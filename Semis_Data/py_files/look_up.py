@@ -16,14 +16,14 @@ try:
 			text=text+c
 	return text
 
-    con = psycopg2.connect(database='sslc',user='postgres',host='localhost',password='hello') 
+    con = psycopg2.connect(database='semis',user='postgres',host='localhost',password='hello') 
     cur = con.cursor()     
     
-    fp=csv.reader(open('/home/brijesh/klp/Task_One/sslc_data/SSLC_data.csv','r'),delimiter='|',quotechar='\'')
+    fp=csv.reader(open('/home/brijesh/SSLC_data.csv','r'),delimiter='|',quotechar='\'')
     i=0
     for row in fp:
 	if(i!=0):	
-		cur.execute("insert into tb_look_up values('"+row[1]+"','"+row[2]+"')")
+		cur.execute("insert into look_up values('"+row[1]+"','"+row[2]+"')")
 	i=i+1
     con.commit()
 except psycopg2.DatabaseError, e:
