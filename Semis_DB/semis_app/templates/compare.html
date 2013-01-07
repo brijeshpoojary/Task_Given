@@ -76,18 +76,19 @@ function myfunction()
 	var r=confirm("Sure you want to continue..??");
 	if (r==true)
   	{
-  		this.form.submit();
+  		alert('You pressed Ok!');
+		this.forms["form1"].submit();
  	 }
 	else
   	{
-  		alert=('You pressed Cancel!');
+  		alert('You pressed Cancel!');
   	}
 }
 
 </script>
 </head>
 <body>
-<form method="post" action="go">
+<form id="form1" name="form1" method="post" action="go">
 <left>Select District : <select id="dist" name="dist" onchange="this.form.submit();">
 		<option value="0"></option>
 $for dist in district:
@@ -97,7 +98,7 @@ $for dist in district:
 		<option value="$dist.id">$dist.name.title()</option>
 </select>
 <br><br>
-Filter by : <input type="text" onkeyup="filter(this.value);">   <input type="button" name="Match Found" value="Match Found" onclick="myfunction()">
+Filter by : <input type="text" onkeyup="filter(this.value);">   <button onclick="myfunction()">Match Found</button>
 </left>
 <input type="hidden" id="sslc" name="sslc"/><input type="hidden" id="semis" name="semis"/>
 <br><br>
