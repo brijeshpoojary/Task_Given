@@ -2,3 +2,30 @@
 [Sat Jan 05 13:25:11 2013] [info] [client 127.0.0.1] mod_wsgi (pid=6858, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
 [Sat Jan 05 13:32:11 2013] [info] [client 127.0.0.1] mod_wsgi (pid=6982, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
 [Sat Jan 05 13:32:48 2013] [info] [client 127.0.0.1] mod_wsgi (pid=6981, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sat Jan 05 16:47:45 2013] [info] [client 127.0.0.1] mod_wsgi (pid=7971, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sat Jan 05 16:48:36 2013] [info] [client 127.0.0.1] mod_wsgi (pid=8077, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sat Jan 05 16:49:43 2013] [info] [client 127.0.0.1] mod_wsgi (pid=8078, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Sat Jan 05 17:19:33 2013] [info] [client 127.0.0.1] mod_wsgi (pid=8465, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Sat Jan 05 17:20:01 2013] [info] [client 127.0.0.1] mod_wsgi (pid=8464, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:52:56 2013] [info] [client 127.0.0.1] mod_wsgi (pid=1469, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:00 2013] [info] [client 127.0.0.1] mod_wsgi (pid=1468, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1] Traceback (most recent call last):, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 239, in process, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]     return self.handle(), referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 230, in handle, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]     return self._delegate(fn, self.fvars, args), referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 462, in _delegate, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]     return handle_class(cls), referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 438, in handle_class, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]     return tocall(*args), referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 54, in POST, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]     db1.query('insert into semis_sslc_match_found values($sslccode,$sslcname,$semiscode,$semisname,$district)',queryvalues), referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/db.py", line 644, in query, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]     self._db_execute(db_cursor, sql_query), referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/db.py", line 587, in _db_execute, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]     out = cur.execute(query, params), referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1] ProgrammingError: INSERT has more expressions than target columns, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1] LINE 1: ...STRICT ','29150424902','AKKAMAHADEVI H.S UDAGANI','SHIMOGA'), referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1]                                                              ^, referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8025/
+[Mon Jan 07 10:53:31 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8025/

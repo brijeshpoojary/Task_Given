@@ -22,7 +22,7 @@ urls = (
 )
 
 values={"dist":'0'}
-queryvalues={"sslccode":"","sslcname":"","semiscode":"","semisname":""}
+queryvalues={"sslccode":"","sslcname":"","semiscode":"","semisname":"","district":""}
 
 
 class prints:
@@ -50,7 +50,8 @@ class result:
 		queryvalues["sslcname"]=str(inputs.sslc).split("|")[1]
 		queryvalues["semiscode"]=str(inputs.semis).split("|")[0]
 		queryvalues["semisname"]=str(inputs.semis).split("|")[1]
-		db1.query('insert into semis_sslc_match_found values($sslccode,$sslcname,$semiscode,$semisname)',queryvalues)
+		queryvalues["district"]=str(inputs.semis).split("|")[2]
+		db1.query('insert into semis_sslc_match_found values($sslccode,$sslcname,$semiscode,$semisname,$district)',queryvalues)
 		db1.query('delete from sslc_data where school_code=trim($sslccode)',queryvalues)
 		db1.query('delete from semis_data where school_code=trim($semiscode)',queryvalues)
 	values["dist"]=str(inputs.dist)
