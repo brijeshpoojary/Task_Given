@@ -130,3 +130,192 @@
 [Mon Jan 07 11:42:03 2013] [error] [client 127.0.0.1]                                                              ^, referer: http://0.0.0.0:8025/
 [Mon Jan 07 11:42:03 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8025/
 [Mon Jan 07 11:42:03 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8025/
+[Fri Jan 11 12:40:56 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2980, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1] mod_wsgi (pid=2980, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1] mod_wsgi (pid=2980): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:40:56 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2981, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1] mod_wsgi (pid=2981, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1] mod_wsgi (pid=2981): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:40:56 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2980, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1] mod_wsgi (pid=2980, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1] mod_wsgi (pid=2980): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 12:40:56 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:49:38 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3139, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:49:38 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3139, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:49:38 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3139): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:49:38 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 12:49:38 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:49:38 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 12:49:38 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:49:43 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3140, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:49:43 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3140, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:49:43 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3140): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:49:43 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 12:49:43 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:49:43 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 12:49:43 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:50:13 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3246, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:50:13 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3246, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:50:13 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3246): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:50:13 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 12:50:13 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:50:13 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 12:50:13 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:50:17 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3245, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:50:17 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3245, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:50:17 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3245): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:50:17 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 12:50:17 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:50:17 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 12:50:17 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:53:11 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3367, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:53:11 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3367, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:53:11 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3367): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:53:11 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 12:53:11 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:53:11 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 12:53:11 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:53:14 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3366, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:53:14 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3366, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:53:14 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3366): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:53:14 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 12:53:14 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:53:14 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 12:53:14 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:55:28 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3485, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:55:28 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3485, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:55:28 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3485): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:55:28 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 37
+[Fri Jan 11 12:55:28 2013] [error] [client 127.0.0.1]     semis_schools=db1.query('select a.school_code,a.school_name,a.district_name,a.block_name,a.village_name,a.pincode from semis_data as a,look_up as b where b.district_code=''$dist'' and a.district_name=b.district_name and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:55:28 2013] [error] [client 127.0.0.1]                                                                                                                                                                                                                                                 ^
+[Fri Jan 11 12:55:28 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:55:30 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3484, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:55:30 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3484, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:55:30 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3484): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:55:30 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 37
+[Fri Jan 11 12:55:30 2013] [error] [client 127.0.0.1]     semis_schools=db1.query('select a.school_code,a.school_name,a.district_name,a.block_name,a.village_name,a.pincode from semis_data as a,look_up as b where b.district_code=''$dist'' and a.district_name=b.district_name and delete_status!='1' order by school_name',values)
+[Fri Jan 11 12:55:30 2013] [error] [client 127.0.0.1]                                                                                                                                                                                                                                                 ^
+[Fri Jan 11 12:55:30 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:56:18 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3597, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:56:18 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3597, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:56:18 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3597): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:56:18 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 55
+[Fri Jan 11 12:56:18 2013] [error] [client 127.0.0.1]     db1.query('update sslc_data set delete_status='1' where school_code=trim($sslccode)',queryvalues)
+[Fri Jan 11 12:56:18 2013] [error] [client 127.0.0.1]                                                    ^
+[Fri Jan 11 12:56:18 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:56:22 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3596, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:56:22 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3596, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:56:22 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3596): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:56:22 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 55
+[Fri Jan 11 12:56:22 2013] [error] [client 127.0.0.1]     db1.query('update sslc_data set delete_status='1' where school_code=trim($sslccode)',queryvalues)
+[Fri Jan 11 12:56:22 2013] [error] [client 127.0.0.1]                                                    ^
+[Fri Jan 11 12:56:22 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:56:23 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3597, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:56:23 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3597, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:56:23 2013] [error] [client 127.0.0.1] mod_wsgi (pid=3597): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:56:23 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 55
+[Fri Jan 11 12:56:23 2013] [error] [client 127.0.0.1]     db1.query('update sslc_data set delete_status='1' where school_code=trim($sslccode)',queryvalues)
+[Fri Jan 11 12:56:23 2013] [error] [client 127.0.0.1]                                                    ^
+[Fri Jan 11 12:56:23 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 12:57:04 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3713, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1] Traceback (most recent call last):
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 239, in process
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]     return self.handle()
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 230, in handle
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]     return self._delegate(fn, self.fvars, args)
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 462, in _delegate
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]     return handle_class(cls)
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 438, in handle_class
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]     return tocall(*args)
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36, in GET
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!=''1'' order by school_name',values)
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/db.py", line 644, in query
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]     self._db_execute(db_cursor, sql_query)
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/db.py", line 587, in _db_execute
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]     out = cur.execute(query, params)
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1] ProgrammingError: operator does not exist: character varying <> integer
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1] LINE 1: ...slc_data where district_code='0' and delete_status!=1 order ...
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1]                                                              ^
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1] HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1] 
+[Fri Jan 11 12:57:09 2013] [error] [client 127.0.0.1] 
+[Fri Jan 11 13:05:05 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3853, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 13:05:21 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3852, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:10:46 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3995, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 13:11:10 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3994, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:42:38 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3995, process='', application=''): Reloading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 13:42:47 2013] [info] [client 127.0.0.1] mod_wsgi (pid=3994, process='', application=''): Reloading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:45:32 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4272, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 13:45:45 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4273, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1] Traceback (most recent call last):, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 239, in process, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]     return self.handle(), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 230, in handle, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]     return self._delegate(fn, self.fvars, args), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 462, in _delegate, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]     return handle_class(cls), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 438, in handle_class, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]     return tocall(*args), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 54, in POST, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]     db1.query('insert into semis_sslc_match_found values($sslccode,$sslcname,$semiscode,$semisname,$district)',queryvalues), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/db.py", line 644, in query, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]     self._db_execute(db_cursor, sql_query), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/db.py", line 587, in _db_execute, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]     out = cur.execute(query, params), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1] ProgrammingError: INSERT has more expressions than target columns, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1] LINE 1: ... ','29150429703','AL AMEEN URDU H.S SHIRALAKOPPA','SHIMOGA'), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1]                                                              ^, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:46:49 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8025/ 
+[Fri Jan 11 13:51:55 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4423, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 13:51:55 2013] [error] [client 127.0.0.1] mod_wsgi (pid=4423, process='', application=''): Failed to parse WSGI script file '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 13:51:55 2013] [error] [client 127.0.0.1] mod_wsgi (pid=4423): Exception occurred processing WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 13:51:55 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 36
+[Fri Jan 11 13:51:55 2013] [error] [client 127.0.0.1]     sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!='Y' order by school_name',values)
+[Fri Jan 11 13:51:55 2013] [error] [client 127.0.0.1]                                                                                                                               ^
+[Fri Jan 11 13:51:55 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Fri Jan 11 13:53:19 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4540, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 13:53:38 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4539, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1] Traceback (most recent call last):, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 239, in process, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]     return self.handle(), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 230, in handle, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]     return self._delegate(fn, self.fvars, args), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 462, in _delegate, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]     return handle_class(cls), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 438, in handle_class, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]     return tocall(*args), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]   File "/home/brijesh/semis/semis.wsgi", line 54, in POST, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]     db1.query('insert into semis_sslc_match_found values($sslccode,$sslcname,$semiscode,$semisname,$district)',queryvalues), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/db.py", line 644, in query, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]     self._db_execute(db_cursor, sql_query), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/db.py", line 587, in _db_execute, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]     out = cur.execute(query, params), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1] ProgrammingError: INSERT has more expressions than target columns, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1] LINE 1: ... ','29150429703','AL AMEEN URDU H.S SHIRALAKOPPA','SHIMOGA'), referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1]                                                              ^, referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:53:56 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8025/
+[Fri Jan 11 13:56:40 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4664, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 13:56:47 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4665, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 14:01:10 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4810, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 14:01:32 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4809, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Fri Jan 11 14:02:25 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4926, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 14:02:58 2013] [info] [client 127.0.0.1] mod_wsgi (pid=4925, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Fri Jan 11 14:04:28 2013] [info] [client 127.0.0.1] mod_wsgi (pid=5046, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 14:04:37 2013] [info] [client 127.0.0.1] mod_wsgi (pid=5047, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Fri Jan 11 14:08:44 2013] [info] [client 127.0.0.1] mod_wsgi (pid=5188, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 14:09:12 2013] [info] [client 127.0.0.1] mod_wsgi (pid=5189, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/
+[Fri Jan 11 14:11:08 2013] [info] [client 127.0.0.1] mod_wsgi (pid=5315, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'.
+[Fri Jan 11 14:11:30 2013] [info] [client 127.0.0.1] mod_wsgi (pid=5314, process='', application=''): Loading WSGI script '/home/brijesh/semis/semis.wsgi'., referer: http://0.0.0.0:8025/

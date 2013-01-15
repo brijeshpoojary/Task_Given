@@ -76,8 +76,7 @@ function myfunction()
 	var r=confirm("Sure you want to continue..??");
 	if (r==true)
   	{
-  		alert('You pressed Ok!');
-		this.forms["form1"].submit();
+		document.forms["form1"].submit();
  	 }
 	else
   	{
@@ -98,7 +97,7 @@ $for dist in district:
 		<option value="$dist.id">$dist.name.title()</option>
 </select>
 <br><br>
-Filter by : <input type="text" onkeyup="filter(this.value);">   <button onclick="myfunction()">Match Found</button>
+Filter by School Name: <input type="text" onkeyup="filter(this.value);">   <button onclick="myfunction()">Match Found</button>
 </left>
 <input type="hidden" id="sslc" name="sslc"/><input type="hidden" id="semis" name="semis"/>
 <br><br>

@@ -33,8 +33,8 @@ class index:
 	def GET(SELF):
 			#dists,blcks,clsts,schls=[],[],[],[]
 			district = db1.query('select distinct a.district_code as id,a.district_name as name from look_up as a,sslc_data as b,semis_data as c where a.district_code=b.district_code and a.district_name=c.district_name')
-			sslc_schools = db1.query('select a.school_code,a.school_name from sslc_data as a,look_up as b where a.district_code=''$dist'' and a.district_code=b.district_code order by school_name',values)
-			semis_schools=db1.query('select a.school_code,a.school_name,a.district_name,a.block_name,a.village_name,a.pincode from semis_data as a,look_up as b where b.district_code=''$dist'' and a.district_name=b.district_name order by school_name',values)
+			sslc_schools = db1.query('select school_code,school_name from sslc_data where district_code=''$dist'' and delete_status!=\'Y\' order by school_name',values)
+			semis_schools=db1.query('select a.school_code,a.school_name,a.district_name,a.block_name,a.village_name,a.pincode from semis_data as a,look_up as b where b.district_code=''$dist'' and a.district_name=b.district_name and delete_status!=\'Y\' order by school_name',values)
 			return render.compare(district,values,sslc_schools,semis_schools)
 				
 
@@ -52,7 +52,7 @@ class result:
 		queryvalues["semisname"]=str(inputs.semis).split("|")[1]
 		queryvalues["district"]=str(inputs.semis).split("|")[2]
 		db1.query('insert into semis_sslc_match_found values($sslccode,$sslcname,$semiscode,$semisname,$district)',queryvalues)
-		db1.query('delete from sslc_data where school_code=trim($sslccode)',queryvalues)
-		db1.query('delete from semis_data where school_code=trim($semiscode)',queryvalues)
+		db1.query('update sslc_data set delete_status=\'Y\' where school_code=trim($sslccode)',queryvalues)
+		db1.query('update semis_data set delete_status=\'Y\' where school_code=trim($semiscode)',queryvalues)
 	values["dist"]=str(inputs.dist)
         raise web.seeother('/')
