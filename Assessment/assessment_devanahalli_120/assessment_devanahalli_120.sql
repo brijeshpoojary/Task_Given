@@ -1,5 +1,3 @@
-child as d,schools_student_studentgrouprelation as e,schools_studentgroup as f,schools_institution as g,schools_assessment as h,schools_programme as i,schools_moi_type as j,schools_moi_type as j1,schools_institution_languages as k where h.id=120 and b.assessment_id=h.id and b.id=a.question_id and a.object_id=c.id and c.child_id=d.id and a.object_id=e.student_id and e.academic_id=121 and h.programme_id=i.id and e.student_group_id=f.id and g.id=f.institution_id and k.institution_id=f.institution_id  and k.moi_type_id=j.id and d.mt_id=j1.id ) as r using(school_code);
-
 select b2.name as district,
 b1.name as block,
 b.name as cluster,

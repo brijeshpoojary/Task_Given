@@ -21,7 +21,7 @@ close(INP);
 
 # print Dumper(\%stud);
 
-print 'DIST|BLK|CLUST|SCODE|SNAME|MOI|STUID|CSEX|CLANG|CLASS|ASSMNTNAME|PROGNAME|';
+print 'DIST|BLK|CLUST|SCODE|SNAME|MOI|CLASS|CNAME|CSEX|DOB|FNAME|MNAME|ASSMNTNAME|PROGNAME|';
 foreach my $a (sort keys %assess) {
     print join('|',$a), '|';
 }
