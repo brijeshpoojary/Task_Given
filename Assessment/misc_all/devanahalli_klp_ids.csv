@@ -1,0 +1,60 @@
+sl no|    block    |   cluster   |         school_name         | klp_id | cls1_cnt | cls2_cnt | cls3_cnt | cls4_cnt | cls5_cnt | cls6_cnt | cls7_cnt 
+1| devanahalli | boodigere   | GKLPS DEVANAYAKANAHALLI     |36181|5|8|4|7|7|6|0
+2| devanahalli | boodigere   | GKHPS BOODGERE              |36178|14|24|24|26|41|38|0
+3| devanahalli | boodigere   | GKHPS GANGAWARA             |36182|11|12|11|8|7|9|0
+4| devanahalli | boodigere   | GKHPS HANDARAHALLI          |36180|12|9|5|12|12|13|0
+5| devanahalli | boodigere   | GKLPS HITTARANAHALLI        |36177|1|6|1|5|7|3|0
+6| devanahalli | boodigere   | GKLPS NAGENAHALLI           |36174|1|3|2|4|2|0|0
+7| devanahalli | boodigere   | GKHPS SOMATHANAHALLI        |36172|7|6|10|2|8|12|0
+8| devanahalli | boodigere   | GKLPS KAGGALAHALLI          |36176|3|8|10|10|3|5|0
+9| devanahalli | boodigere   | GKLPS KONDENAHALLI          |36175|8|14|9|8|13|9|0
+10| devanahalli | boodigere   | GKHPS BHATTAMARANAHALLI     |36705|7|5|4|8|4|8|0
+11| devanahalli | boodigere   | GKLPS CHOWDAPPANAHALLI      |36173|6|6|3|4|6|3|0
+12| devanahalli | channahalli | GKLPS Boodihala             |36720|0|5|4|6|4|0|0
+13| devanahalli | devanahalli | GKLPS Poojammana Palya      |36721|6|8|5|5|0|0|0
+14| devanahalli | sadahalli   | GKLPS T. Hosahalli          |36722|3|7|2|3|3|0|0
+15| devanahalli | nalluru     | GKHPS Biddalapura           |36723|0|6|6|12|8|0|0
+16| devanahalli | sadahalli   | GKLPS KEMPALINGANAPURA      |36724|3|0|3|1|6|0|0
+17| devanahalli | channahalli | GKLPS DODDAHOSAHALLI        |36725|0|1|2|3|1|0|0
+18| devanahalli | devanahalli | GKLPS  D V M COLONY         |36726|15|19|14|15|12|0|0
+19| devanahalli | nalluru     | GKHPS Nalluru               |36727|0|4|6|4|6|0|0
+20| devanahalli | channahalli | GKLPS T AGRAHARA            |36728|0|2|4|7|6|0|0
+21| devanahalli | sadahalli   | GKLPS BHOVI PALYA           |36729|3|9|9|4|2|0|0
+22| devanahalli | channahalli | GKLPS CHIKKAHOSAHALLI       |36730|0|1|2|2|6|0|0
+23| devanahalli | nalluru     | GKHPS BALEPURA              |36731|0|7|12|13|13|0|0
+24| devanahalli | channahalli | GKHPS RAYASANDRA            |36732|0|8|12|12|4|0|0
+25| devanahalli | devanahalli | GKLPS PRASANNAHALLI         |36733|11|10|5|0|3|0|0
+26| devanahalli | channahalli | GKHPS POLANAHALLI           |36734|0|5|8|7|15|0|0
+27| devanahalli | nalluru     | GKLPS Hosa nalluru          |36736|0|3|8|6|9|0|0
+28| devanahalli | sadahalli   | GKHPS UGANAVADI             |36737|14|13|11|13|12|0|0
+29| devanahalli | channahalli | GKLPS THELLOHALLI           |36738|0|8|6|2|10|0|0
+30| devanahalli | nalluru     | GKHPS Ramanahalli           |36739|0|9|8|7|14|0|0
+31| devanahalli | devanahalli | GKLPS SOUTHEGOWDANAHALLI    |36740|6|9|7|6|6|0|0
+32| devanahalli | channahalli | GKHPS CHANNAHALLI           |36741|0|10|7|14|9|0|0
+33| devanahalli | sadahalli   | GKLPS NAGAMANGALA           |36742|1|7|3|5|3|0|0
+34| devanahalli | nalluru     | GKHPS Chemachanahalli       |36743|0|5|0|4|8|0|0
+35| devanahalli | devanahalli | GKHPS PUTTAPPANA GUDI BEEDI |36744|13|10|11|16|11|0|0
+36| devanahalli | nalluru     | GKHPS Mallepura             |36745|0|2|5|4|5|0|0
+37| devanahalli | channahalli | GKLPS AGALAKOTE             |36746|0|2|2|1|2|0|0
+38| devanahalli | channahalli | GKHPS BETTAKOTE             |36747|0|7|7|7|9|0|0
+39| devanahalli | sadahalli   | GKLPS NAVODAYA BHOVIPALYA   |36748|3|6|4|5|2|0|0
+40| devanahalli | nalluru     | GKLPS Nallappanahalli       |36749|0|2|4|4|1|0|0
+41| devanahalli | nalluru     | GKLPS Jonnahalli            |36750|0|2|4|1|3|0|0
+42| devanahalli | channahalli | GKLPS HARALURU              |36751|0|13|5|9|4|0|0
+43| devanahalli | devanahalli | GKHPBS KOTE                 |36735|12|17|13|9|15|0|0
+44| devanahalli | sadahalli   | GKHPS HEGGANAHALLI          |36752|2|5|2|2|2|0|0
+45| devanahalli | sadahalli   | GKLPS KEMPATHIMMANAHALLI    |36753|15|5|13|8|7|0|0
+46| devanahalli | channahalli | GKLPS REDDIHALLI            |36754|0|4|5|5|3|0|0
+47| devanahalli | sadahalli   | GKHPS SINGARAHALLI          |36755|16|10|5|8|9|0|0
+48| devanahalli | sadahalli   | GKLPS CHOWDENAHALLI         |36756|5|5|2|2|0|0|0
+49| devanahalli | devanahalli | GKLPS NEERAGANTE PALYA      |36757|0|7|4|4|6|0|0
+50| devanahalli | sadahalli   | GKHPS SADAHALLI             |36758|24|14|9|17|20|0|0
+51| devanahalli | devanahalli | GKHPS NEELEARI              |36759|7|7|14|6|4|0|0
+52| devanahalli | devanahalli | GKLPS GORIBAGILU            |36760|10|5|9|8|6|0|0
+53| devanahalli | devanahalli | GKLPS AKKU PETE             |36761|6|2|6|4|3|0|0
+54| devanahalli | sadahalli   | GKHPS NERAGANAHALLI         |36762|0|3|4|7|5|0|0
+55| devanahalli | sadahalli   | GKLPS ILATHORE              |36763|3|5|5|8|6|0|0
+56| devanahalli | devanahalli | GKMPS DEVANA HALLI          |36764|14|12|28|23|30|0|0
+57| devanahalli | devanahalli | GKHPS KORACHARAPALYA        |36765|30|30|33|23|38|0|0
+58| devanahalli | devanahalli | GKHPS SAROVARA BEEDI        |36766|11|15|20|21|21|0|0
+59| devanahalli | devanahalli | GKLPS PARVATHAPURA          |36767|14|3|4|6|4|0|0

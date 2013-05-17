@@ -1,0 +1,263 @@
+sl no|  block   |     cluster     |          school_name           | klp_id | cls1_cnt | cls2_cnt | cls3_cnt | cls4_cnt | cls5_cnt | cls6_cnt | cls7_cnt 
+1| hosakote | shivanapura     | G LPS KORADAHALLI              |36041|0|5|3|2|7|6|0
+2| hosakote | doddagattinabbe | G HPS JINNAGARA                |36003|0|4|2|10|1|3|0
+3| hosakote | sulibele        | G LPS VALAGEREPURA             |35881|6|8|3|7|0|16|0
+4| hosakote | sulibele        | G LPS SADAPPANAHALLI           |35884|7|4|5|5|6|8|0
+5| hosakote | beguru          | G LPS M.SATHYAVARA             |35885|0|13|11|7|4|7|0
+6| hosakote | beguru          | G ULPS E.MUTHASANDRA           |35887|0|2|3|0|3|4|0
+7| hosakote | beguru          | G LPS CHIKKA KOLIGA            |35889|0|0|2|5|6|8|0
+8| hosakote | beguru          | G LPS DODDA KOLIGA             |35890|0|0|0|1|1|3|0
+9| hosakote | beguru          | G LPS SONNEBACHANAHALLI        |35892|0|1|1|0|3|4|0
+10| hosakote | sulibele        | G HPS KURUBARAPETE SULIBELE    |35876|9|10|9|7|12|10|0
+11| hosakote | beguru          | G LPS BAGALURU                 |35893|0|1|2|5|3|0|0
+12| hosakote | beguru          | G LPS BHEEMAKANAHALLI          |35894|0|6|5|7|8|7|0
+13| hosakote | nelavagilu      | G LPS LAKSHMIPURA              |35906|0|0|3|5|5|3|0
+14| hosakote | nelavagilu      | G ULPS CHIKKONDAHALLI          |35907|          |          |          |          |          |          |         
+15| hosakote | nelavagilu      | G LPS AREHALLI                 |35910|0|4|3|3|5|2|0
+16| hosakote | nelavagilu      | G LPS YETHONODEYANAPURA        |35911|0|3|8|0|5|5|0
+17| hosakote | nelavagilu      | G ULPS K.SHETTYHALLI           |35914|0|3|4|3|4|0|0
+18| hosakote | nelavagilu      | G LPS MUDDANAHALLI             |35918|0|2|8|2|4|7|0
+19| hosakote | thavarekere     | G LPS YELACHAHALLI             |35931|0|4|3|2|3|0|0
+20| hosakote | thavarekere     | G ULPS YELACHAHALLI            |35932|0|9|11|10|9|11|0
+21| hosakote | thavarekere     | G LPS CB COLONY                |35933|0|3|4|3|7|2|0
+22| hosakote | thavarekere     | G LPS MANCHAPPANAHALLI         |35934|0|9|16|9|5|7|0
+23| hosakote | thavarekere     | G LPS KALAPPANAHALLI           |35935|0|19|10|16|10|13|0
+24| hosakote | thavarekere     | G LPS LINGAPURA                |35937|0|11|8|6|9|2|0
+25| hosakote | thavarekere     | G LPS BEERAHALLI               |35938|0|9|12|11|11|10|0
+26| hosakote | bilanarasapura  | G LPS MARASANDAHALLI           |35927|0|10|6|5|5|10|0
+27| hosakote | bilanarasapura  | G LPS GUNDRAHALLI              |35925|0|1|4|2|2|2|0
+28| hosakote | kalkunte        | G LPS SHIVANAPURA              |35929|0|2|5|5|1|2|0
+29| hosakote | thavarekere     | G LPS BANAMAKANAHALLI          |35940|0|3|7|7|6|4|0
+30| hosakote | thavarekere     | G LPS GANGAPURA                |35941|0|10|21|11|8|8|0
+31| hosakote | thavarekere     | G LPS PUJARAMANAHALLI          |35942|0|11|6|5|4|1|0
+32| hosakote | thavarekere     | G LPS GUGUTTAHALLI             |35949|0|5|7|5|4|2|0
+33| hosakote | thavarekere     | G LPS ALAGONDANAHALLI          |35952|0|4|5|3|7|5|0
+34| hosakote | thavarekere     | G LPS YELACHAMANAHALLI         |35953|0|4|5|3|5|5|0
+35| hosakote | jadigenahalli   | G LPS GONAKANAHALLI            |35963|0|3|7|7|6|10|0
+36| hosakote | jadigenahalli   | G ULPS GONAKANAHALLI           |35964|0|2|1|5|3|5|0
+37| hosakote | devanagundi     | G LPS DEVALAPURA               |35987|0|7|12|14|4|9|0
+38| hosakote | devanagundi     | G LPS LINGADHEELAMALLASANDRA   |35988|0|5|2|4|0|4|0
+39| hosakote | devanagundi     | G LPS D.MEDAHALLI              |35990|0|4|2|4|2|5|0
+40| hosakote | devanagundi     | G LPS OBALAPURA                |35992|0|1|3|0|3|0|0
+41| hosakote | devanagundi     | G LPS YADAGONDANAHALLI         |35997|0|2|1|6|5|2|0
+42| hosakote | devanagundi     | G LPS MEDIMALLASANDRA          |35998|0|3|5|2|1|7|0
+43| hosakote | devanagundi     | G LPS HANDENAHALLI             |36000|0|8|4|13|11|12|0
+44| hosakote | devanagundi     | G ULPS HANDENAHALLI            |36001|0|2|7|7|4|0|0
+45| hosakote | devanagundi     | G LPS BANARAHALLI              |36002|          |          |          |          |          |          |         
+46| hosakote | hosakote town   | G LPS VARADAPURA               |36013|0|32|25|9|12|7|0
+47| hosakote | hosakote town   | G LPS GOWTHAM COLONY           |36014|0|3|2|0|3|1|0
+48| hosakote | hosakote town   | G LPS SIDDARTHA NAGARA         |36015|0|4|2|2|16|8|0
+49| hosakote | hosakote town   | G LPS AMBEDKER NAGARA          |36016|0|9|12|16|13|12|0
+50| hosakote | hosakote town   | G ULPS V.V. EXTN               |36017|0|10|6|8|6|4|0
+51| hosakote | bendiganahalli  | G LPS THIMMAPPANAHALLI         |36025|0|8|9|6|5|3|0
+52| hosakote | bendiganahalli  | G LPS THENEYURU                |36026|0|6|3|1|4|1|0
+53| hosakote | bendiganahalli  | G LPS BALENAHALLI              |36027|0|4|0|0|3|2|0
+54| hosakote | bendiganahalli  | G LPS DYAVASANDRA              |36028|0|1|5|4|6|1|0
+55| hosakote | bendiganahalli  | G LPS CHIKKA ARALAGERE         |36030|0|3|0|2|1|5|0
+56| hosakote | shivanapura     | G LPS MOTHAKADAHALLI           |36040|0|7|6|10|2|6|0
+57| hosakote | shivanapura     | G LPS D SHETTYHALLI            |36045|0|4|7|8|9|4|0
+58| hosakote | shivanapura     | G ULPS DODDENAHALLI            |36046|0|11|5|5|3|4|0
+59| hosakote | shivanapura     | G LPS SIDDAPURA                |36047|0|2|1|3|3|4|0
+60| hosakote | shivanapura     | G LPS GADIGENAHALLI            |36048|0|6|6|6|4|10|0
+61| hosakote | shivanapura     | G LPS CT GOLLAHALLI            |36050|0|6|6|6|7|5|0
+62| hosakote | shivanapura     | G LPS BISANAHALLI              |36052|0|3|6|3|3|2|0
+63| hosakote | shivanapura     | G LPS GANJARLAHALLI            |36053|0|8|6|12|9|8|0
+64| hosakote | shivanapura     | G LPS BHEEMAPURA               |36054|0|13|2|9|8|9|0
+65| hosakote | shivanapura     | G LPS NAKKANAHALLI             |36056|0|5|6|8|3|7|0
+66| hosakote | mugbala         | G LPS ATTURU                   |36061|0|3|7|4|5|4|0
+67| hosakote | vagata          | G ULPS VAGATA                  |36093|0|3|7|2|5|2|0
+68| hosakote | vagata          | G LPS KACHARAKANAHALLI         |36098|0|2|5|6|5|6|0
+69| hosakote | vagata          | G LPS HUNASEHALLI              |36100|0|5|0|3|6|4|0
+70| hosakote | vagata          | G LPS DODDADASARAHALLI         |36102|0|4|1|1|11|1|0
+71| hosakote | vagata          | G LPS PARAMANAHALLI            |36103|0|3|2|3|10|2|0
+72| hosakote | kalkunte        | G LPS BYALAHALLI               |36108|0|1|3|0|2|0|0
+73| hosakote | kalkunte        | G LPS AREHALLI                 |36111|0|10|6|6|8|4|0
+74| hosakote | kalkunte        | G LPS MUTHUKADAHALLI           |36112|0|5|2|3|9|10|0
+75| hosakote | kalkunte        | G LPS THATTANUR                |36113|0|5|8|2|10|2|0
+76| hosakote | kalkunte        | G LPS SIDDANAPURA              |36117|0|0|9|6|11|9|0
+77| hosakote | kalkunte        | G LPS MARANAGERE               |36118|0|8|9|15|13|8|0
+78| hosakote | kalkunte        | G ULPS GANAGALURU              |36120|0|0|0|0|0|6|0
+79| hosakote | alappanahalli   | G LPS THIMMASANDRA             |36123|0|6|3|4|5|9|0
+80| hosakote | vagata          | G LPS KAMARASANAHALLY          |36106|0|6|6|4|4|2|0
+81| hosakote | doddagattinabbe | G LPS DEVASHETTYHALLI          |36094|0|5|7|5|4|7|0
+82| hosakote | jadigenahalli   | G LPS BOMMANA BANDE            |36107|0|9|7|8|7|5|0
+83| hosakote | alappanahalli   | G LPS VENKATAPURA              |36126|0|8|1|3|3|2|0
+84| hosakote | alappanahalli   | G LPS VABHASANDRA              |36127|0|5|4|5|6|6|0
+85| hosakote | alappanahalli   | G LPS UPPARAHALLI              |36130|0|10|10|8|9|10|0
+86| hosakote | alappanahalli   | G LPS CHOWLU THOTA             |36132|0|18|13|14|14|10|0
+87| hosakote | alappanahalli   | G LPS KALLAHALLI               |36133|0|5|3|8|2|6|0
+88| hosakote | jadigenahalli   | G ULPS CHATRIPALYA             |36091|0|11|13|13|9|7|0
+89| hosakote | alappanahalli   | G LPS MUGALIPURA               |36134|0|5|2|3|3|3|0
+90| hosakote | sulibele        | G LPS KADARINAPURA             |36138|1|4|1|3|2|2|0
+91| hosakote | sulibele        | G ULPS JANATHA COLONY          |36141|0|7|9|8|5|8|0
+92| hosakote | vagata          | G MPS THARABAHALLI             |36088|0|13|8|13|16|10|0
+93| hosakote | beguru          | G HPS E. MUTHASANDRA           |35888|0|24|13|16|16|7|0
+94| hosakote | beguru          | G HPS KAMBALIPURA              |35886|0|20|16|18|15|11|0
+95| hosakote | sulibele        | G HPS YANAGUNTE                |35883|4|9|10|10|8|18|0
+96| hosakote | sulibele        | G HPS JANATHA COLONY           |35875|33|27|32|40|28|29|0
+97| hosakote | sulibele        | G HPS ATTIBELE                 |35882|10|8|12|15|11|16|0
+98| hosakote | sulibele        | G HPS GIDDAPPANAHALLI          |35879|14|17|10|9|19|12|0
+99| hosakote | sulibele        | G UHPS GIDDAPPANAHALLI         |35880|0|8|3|13|10|10|0
+100| hosakote | nelavagilu      | G HPS CHIKKONDAHALLI           |35908|0|7|12|8|10|12|0
+101| hosakote | beguru          | G HPS BEGURU                   |35891|0|9|11|8|10|9|0
+102| hosakote | beguru          | G HPS MALLIMAKANAPURA          |35902|0|13|17|13|14|11|0
+103| hosakote | nelavagilu      | G HPS DALASAGERE               |35909|0|4|5|7|3|6|0
+104| hosakote | nelavagilu      | G HPS NELAVAGILU               |35912|0|14|13|11|8|17|0
+105| hosakote | thavarekere     | G HPS THAVAREKERE              |35936|0|55|63|27|25|28|0
+106| hosakote | nelavagilu      | G HPS THARABAHALLI             |35928|0|5|1|3|10|3|0
+107| hosakote | thavarekere     | G HPS HETTAKKI                 |35939|0|11|4|6|9|5|0
+108| hosakote | bilanarasapura  | G UHPS BOYS BNPURA             |35921|0|8|7|11|15|0|0
+109| hosakote | bilanarasapura  | G HPS HEDAKANAHALLI            |35922|0|6|8|13|8|21|0
+110| hosakote | bilanarasapura  | G HPS KARAHALLI                |35915|0|11|11|12|13|5|0
+111| hosakote | doddanallala    | G HPS CHIKKANALLALA            |35944|0|5|15|7|8|9|0
+112| hosakote | devanagundi     | G UHPS MEDIMALLASADNRA         |35999|0|9|11|10|16|15|0
+113| hosakote | devanagundi     | G UHPS MUTHKURU                |35996|0|13|4|6|5|7|0
+114| hosakote | samethanahalli  | G HPS NADUVATTI                |35974|0|20|21|19|19|19|0
+115| hosakote | jadigenahalli   | G HPS JADIGENAHALLI            |35966|0|13|14|14|16|11|0
+116| hosakote | jadigenahalli   | G HPS SOLURU                   |35958|0|7|4|4|9|3|0
+117| hosakote | jadigenahalli   | G HPS ATTHIVATTA               |35957|0|7|8|9|16|13|0
+118| hosakote | samethanahalli  | G HPS MALLASANDRA              |35972|0|17|12|19|18|15|0
+119| hosakote | jadigenahalli   | G HPS KOLATHURU                |35971|0|5|0|5|2|4|0
+120| hosakote | devanagundi     | G HPS MUTHKURU                 |35995|0|19|20|22|16|9|0
+121| hosakote | samethanahalli  | G HPS SAMETHANAHALLI           |35976|0|32|16|26|24|22|0
+122| hosakote | samethanahalli  | G HPS THIRUMALA SHETTIHALLI    |35975|0|14|16|15|16|16|0
+123| hosakote | devanagundi     | G HPS DEVANAGUNDI              |35994|0|18|15|18|24|25|0
+124| hosakote | samethanahalli  | G HPS BHODHANA HOSAHALLI       |35977|0|25|17|23|25|25|0
+125| hosakote | samethanahalli  | G HPS MUTHASANDRA              |35983|0|15|14|9|11|10|0
+126| hosakote | devanagundi     | G HPS ANUGONDANAHALLI          |35993|0|3|5|9|11|8|0
+127| hosakote | devanagundi     | G HPS DODDA DUNNASANDRA        |35986|0|16|15|16|24|14|0
+128| hosakote | devanagundi     | G HPS D. HOSAHALLI             |35991|0|10|11|10|6|7|0
+129| hosakote | shivanapura     | G HPS MALIYAPPANAHALLI         |36051|0|4|4|5|4|5|0
+130| hosakote | doddanallala    | G HPS OROHALLI                 |35959|0|3|4|6|1|6|0
+131| hosakote | hosakote town   | G UHPS HOSAKOTE                |36023|0|7|21|14|22|21|0
+132| hosakote | hosakote town   | G HPS DANDUPALYA               |36022|0|15|17|8|10|15|0
+133| hosakote | hosakote town   | G KGMS HOSAKOTE                |36019|0|44|43|52|62|64|0
+134| hosakote | hosakote town   | G HPS KURUBARAPETE             |36020|0|21|23|19|20|15|0
+135| hosakote | hosakote town   | G UHPS KHAJI MAKHAN            |36024|0|24|16|25|30|20|0
+136| hosakote | bendiganahalli  | G HPS BENDIGANAHALLI           |36029|0|5|6|0|13|5|0
+137| hosakote | shivanapura     | G HPS K SATHYAVARA             |36044|0|13|13|4|4|6|0
+138| hosakote | shivanapura     | G HPS KARAPANAHALLI            |36043|0|12|9|8|12|8|0
+139| hosakote | nandagudi       | G HPS N.HOSAHALLI              |36081|0|15|7|13|6|11|0
+140| hosakote | nandagudi       | G UHPS NANDAGUDI               |36077|0|9|7|7|4|5|0
+141| hosakote | nandagudi       | G HPS NANDAGUDI                |36076|0|27|27|29|27|19|0
+142| hosakote | nandagudi       | G HPS  DHARMESHWARA            |36083|          |          |          |          |          |          |         
+143| hosakote | bendiganahalli  | GHPS ITTASANDRA                |36070|0|15|10|11|6|8|0
+144| hosakote | nelavagilu      | G HPS HINDIGANALA              |36072|0|16|6|16|6|0|0
+145| hosakote | nelavagilu      | G UHPS HINIDGANALA             |36073|0|15|11|12|12|16|0
+146| hosakote | vagata          | G HPS MAKANAHALLI              |36101|0|9|10|11|6|14|0
+147| hosakote | vagata          | G HPS KANEKAL                  |36099|0|4|2|4|4|3|0
+148| hosakote | vagata          | G HPS VAGATA                   |36092|0|15|17|23|18|16|0
+149| hosakote | vagata          | G HPS KHAJI HOSAHALLI          |36104|0|10|10|13|6|5|0
+150| hosakote | sulibele        | G HPS ARASANAHALLI             |36137|10|15|11|11|17|16|0
+151| hosakote | kalkunte        | G HPS GANAGALURU               |36119|0|2|4|9|7|3|0
+152| hosakote | kalkunte        | G HPS GUNDURU                  |36116|0|4|5|8|7|8|0
+153| hosakote | vagata          | G HPS HONACHANAHALLI           |36105|0|6|4|2|5|4|0
+154| hosakote | kalkunte        | G HPS BAGURU                   |36115|0|9|12|12|14|7|0
+155| hosakote | kalkunte        | G HPS NARAYANA KERE            |36109|0|4|4|10|12|12|0
+156| hosakote | kalkunte        | G HPS KALKUNTE AGRAHARA        |36110|0|26|14|13|11|21|0
+157| hosakote | alappanahalli   | G HPS SONNAHALLIPURA           |36124|0|8|4|6|7|12|0
+158| hosakote | alappanahalli   | G HPS KAMMASANDRA              |36121|0|10|11|15|7|12|0
+159| hosakote | alappanahalli   | G HPS HASIGALA                 |36122|0|14|10|7|8|10|0
+160| hosakote | alappanahalli   | G HPS KUMBALAHALLI             |36131|0|18|15|14|10|17|0
+161| hosakote | alappanahalli   | G HPS LAKKONDANAHALLI          |36125|0|7|5|7|12|9|0
+162| hosakote | alappanahalli   | G HPS ALAPPANAHALLI            |36129|0|10|17|14|8|17|0
+163| hosakote | alappanahalli   | G UHPS SHANKANIPURA            |36128|0|14|17|14|10|12|0
+164| hosakote | sulibele        | G HPS SULIBELE                 |36139|22|25|41|29|32|35|0
+165| hosakote | sulibele        | G UHPS SULIBELE                |36140|0|9|12|7|8|13|0
+166| hosakote | jadigenahalli   | G LPS BELAMANGALA              |35965|0|4|5|3|4|3|0
+167| hosakote | jadigenahalli   | G LPS HARALURU                 |35967|0|6|7|4|4|10|0
+168| hosakote | jadigenahalli   | G LPS GOVINDAPURA              |35970|0|7|8|10|12|5|0
+169| hosakote | samethanahalli  | G LPS KORALURU                 |35973|0|22|13|17|14|25|0
+170| hosakote | samethanahalli  | G LPS NAGANAYAKANA KOTE        |35979|0|11|9|3|8|12|0
+171| hosakote | samethanahalli  | G LPS HAROHALLI                |35980|0|7|3|12|11|14|0
+172| hosakote | samethanahalli  | G LPS AJJAGONDANAHALLI         |35981|0|7|10|5|9|4|0
+173| hosakote | samethanahalli  | G LPS KOTTURU                  |35982|0|10|11|7|13|8|0
+174| hosakote | samethanahalli  | G LPS BELLI KERE               |35984|0|11|7|8|7|7|0
+175| hosakote | nandagudi       | G LPS RALAKUNTE                |36067|0|7|2|3|4|2|0
+176| hosakote | nandagudi       | G LPS ESTHURU                  |36068|0|7|6|3|7|6|0
+177| hosakote | nandagudi       | G LPS HOSAVENKATAPURA          |36071|          |          |          |          |          |          |         
+178| hosakote | nandagudi       | G LPS BANAHALLI                |36074|0|1|3|2|4|6|0
+179| hosakote | nandagudi       | G LPS HALEURU                  |36078|0|9|9|15|14|17|0
+180| hosakote | nandagudi       | G LPS  VADDAHALLI              |36080|0|6|7|2|3|0|0
+181| hosakote | nandagudi       | G LPS CHOKKASANDRA             |36084|0|14|11|6|9|0|0
+182| hosakote | nandagudi       | G LPS KONDRAHALLI              |36085|0|7|7|7|1|0|0
+183| hosakote | nandagudi       | G LPS NADUVINAPURA             |36086|0|5|5|5|6|6|0
+184| hosakote | nandagudi       | GULPS THIRTHAHALLI             |36087|0|3|2|4|7|0|0
+185| hosakote | hosakote town   | G HPS M. V. EXTN. HOSKOTE      |36021|0|41|48|51|51|38|0
+186| hosakote | bendiganahalli  | GHPS E - HOSAHALLI             |36185|0|5|7|13|6|5|0
+187| hosakote | bendiganahalli  | GLPS CHEEMASANDRA              |36186|0|9|10|8|4|7|0
+188| hosakote | bendiganahalli  | GLPS RAMAGOVINDAPURA           |36187|0|2|6|3|1|3|0
+189| hosakote | beguru          | GLPS MUTTUKADAHALLI            |36188|0|9|5|5|5|9|0
+190| hosakote | shivanapura     | GHPS SHIVANAPURA               |36189|0|34|32|56|25|39|0
+191| hosakote | bendiganahalli  | GHPS ANUPAHALLI                |36190|0|10|10|11|7|7|0
+192| hosakote | doddagattinabbe | GHPS CG Nabe(chikkagattinabbe) |36192|0|10|17|8|9|13|0
+193| hosakote | mugbala         | GHPS Chikkanahalli             |36193|0|2|9|6|9|4|0
+194| hosakote | bilanarasapura  |         GLKPS Bilanarasapura   |36194|0|38|34|23|18|0|0
+195| hosakote | doddanhulluru   |         GHPS Doddanallurahalli |36195|0|19|16|15|16|18|0
+196| hosakote | bilanarasapura  | GLPS DINNEKORATI               |36196|0|8|10|6|8|5|0
+197| hosakote | doddanhulluru   | GLPS CHOLAPPANAHALLI           |36197|0|11|11|12|9|11|0
+198| hosakote | doddanhulluru   | GLPS CHOKKAHALLI               |36198|0|10|18|13|26|11|0
+199| hosakote | doddanhulluru   | GLPS CHIKKAHULLUR              |36199|0|16|8|8|2|6|0
+200| hosakote | mugbala         | GHPS GOTTIPURA                 |36200|0|5|6|11|14|19|0
+201| hosakote | doddanhulluru   | GHPS SOMAPURA                  |36201|0|18|12|8|16|14|0
+202| hosakote | doddanhulluru   | GLPS PILLAGUMPE                |36202|0|20|20|12|13|16|0
+203| hosakote | doddanhulluru   | GHPS DASARAHALLI               |36203|0|23|17|22|20|38|0
+204| hosakote | mugbala         | GHPS KOMBALIGANAHALLI          |36206|0|9|25|11|19|16|0
+205| hosakote | doddagattinabbe | GKLPS BISNAHALLI               |36207|0|5|8|11|9|5|0
+206| hosakote | doddagattinabbe | GLPS POOJENA AGRAHARA          |36208|0|12|10|14|9|10|0
+207| hosakote | doddagattinabbe | GKHPS KODIHALLI                |36209|0|2|7|7|11|0|0
+208| hosakote | mugbala         | GKLPS HOSAHALLI                |36210|0|6|4|6|3|3|0
+209| hosakote | doddagattinabbe | GKLPS BHAKTARAHALLI            |36211|0|12|9|4|10|12|0
+210| hosakote | mugbala         | GLPS HALASAHALLI               |36213|0|6|4|8|10|11|0
+211| hosakote | doddanhulluru   | GLPS CHIKKA NALLURAHALLI       |36214|0|11|16|9|10|12|0
+212| hosakote | doddanhulluru   | GHPS DODDAHULLUR               |36219|0|15|29|17|19|25|0
+213| hosakote | mugbala         | GHPS NIDAGHATTA                |36220|0|10|14|8|17|11|0
+214| hosakote | doddagattinabbe | GHPS DODDAGATTINABBE           |36221|0|1|1|2|2|0|0
+215| hosakote | mugbala         | GHPS VOLAGERE PURA             |36222|0|5|9|4|12|8|0
+216| hosakote | mugbala         | GLPS MYLAPURA                  |36223|0|8|6|8|4|7|0
+217| hosakote | nandagudi       | G UHPS N HOSAHALLI             |36082|0|7|9|18|6|18|0
+218| hosakote | mugbala         | GHPS MUGABALA                  |36224|0|17|16|18|18|27|0
+219| hosakote | doddanhulluru   | GHPS KURUBARAHALLI             |36225|0|17|17|13|24|51|0
+220| hosakote | kalkunte        | G HPS THIRUVARANGA             |36114|0|9|4|7|11|7|0
+221| hosakote | doddagattinabbe | GLPS GANAGALU                  |36226|0|4|2|4|2|4|0
+222| hosakote | doddagattinabbe | GHPS KANNURHALLI               |36227|0|14|16|8|9|18|0
+223| hosakote | doddagattinabbe | GLPS PETTANAHALLI              |36228|0|3|5|2|2|3|0
+224| hosakote | bilanarasapura  | GLPS ULAVANAHALLI              |36229|0|0|4|2|3|0|0
+225| hosakote | bilanarasapura  | GLPS OBALAHALLI                |36230|0|10|8|8|7|8|0
+226| hosakote | doddanhulluru   | GULPS CHIKKAHULLUR             |36231|0|9|3|3|2|9|0
+227| hosakote | doddanallala    | GHPS THAVATAHALLI              |36233|0|3|2|5|9|11|0
+228| hosakote | doddanallala    | GHPS DODDANALLALA              |36235|0|6|4|8|26|5|0
+229| hosakote | doddanallala    | GHPS CHIKKATHAGGALI            |36236|0|2|3|3|12|6|0
+230| hosakote | doddanallala    | GHPS DODDENAHALLI              |36237|0|7|7|7|18|19|0
+231| hosakote | t agrahara      | GUHPS THAMMARASANAHALLI        |36238|0|6|3|3|6|4|0
+232| hosakote | t agrahara      | GLPS BHUVANAHALLI              |36239|0|4|7|4|9|6|0
+233| hosakote | jadigenahalli   | G HPS KB HOSAHALLI             |35969|0|8|4|8|6|13|0
+234| hosakote | t agrahara      | GHPS T AGRAHARA                |36240|0|4|12|9|5|10|0
+235| hosakote | t agrahara      | GHPS BAVAPURA                  |36241|0|3|5|4|11|5|0
+236| hosakote | t agrahara      | GLPS SHASHIMAKANA HALLI        |36242|0|4|3|3|4|0|0
+237| hosakote | t agrahara      | GHPS GOLLAHALLI                |36244|0|11|13|18|13|16|0
+238| hosakote | t agrahara      | GLPS HOSADIMBAHALLI            |36245|0|3|3|3|5|3|0
+239| hosakote | t agrahara      | GHPS DODDARALAGERE             |36246|0|5|16|11|11|8|0
+240| hosakote | doddanallala    | GLPS INJANAHALLI               |36247|0|1|3|3|2|2|0
+241| hosakote | bilanarasapura  | G LPS AGASARAHALLI             |35926|0|5|1|1|7|2|0
+242| hosakote | bilanarasapura  | G HPS KORATI                   |35916|0|8|13|12|11|13|0
+243| hosakote | doddagattinabbe | G LPS S. GUTTAHALLI            |36007|0|12|20|14|15|15|0
+244| hosakote | mugbala         | G ULPS NIDAGHATTA              |36063|0|3|6|3|3|3|0
+245| hosakote | vagata          | G HPS THINDLU                  |35985|0|3|2|1|3|2|0
+246| hosakote | hosakote town   | G KGKMS TOWN                   |36248|0|46|41|63|50|60|0
+247| hosakote | doddanallala    | GLPS THAGALIHOSAHALLI          |36204|0|9|6|4|6|5|0
+248| hosakote | doddanallala    | G LPS APPASANDRA               |35954|0|6|6|5|8|3|0
+249| hosakote | thavarekere     | GLPS BANDAHALLI                |36273|0|9|7|6|11|9|0
+250| hosakote | nelavagilu      | G HPS SIDDANAHALLI             |35913|0|6|8|2|8|6|0
+251| hosakote | jadigenahalli   | GKHPS KATTIGENAHALLI           |36297|0|15|12|20|11|0|0
+252| hosakote | jadigenahalli   | G UHPS KATTIGENAHALLI          |36089|0|21|18|21|32|26|0
+253| hosakote | doddagattinabbe | GLPS CHEEMANDA HALLI           |36649|0|14|5|4|4|6|0
+254| hosakote | doddagattinabbe | G ULPS BISANAHALLI             |36097|0|0|5|3|3|2|0
+255| hosakote | doddanallala    | G LPS DODDATHAGGALI            |35960|0|4|6|4|3|3|0
+256| hosakote | doddanallala    | G HPS UMMALU                   |35950|0|15|9|13|7|16|0
+257| hosakote | mugbala         | G LPS CHINANDAHALLI            |35943|0|9|6|6|5|6|0
+258| hosakote | mugbala         | G LPS DABBAGUNTAHALLI          |35945|0|7|6|6|9|7|0
+259| hosakote | mugbala         | G ULPS MUGABALA                |36058|0|3|6|1|4|1|0
+260| hosakote | t agrahara      | G LPS SIDDENAHALLI             |35877|0|7|6|4|6|0|0
+261| hosakote | t agrahara      | G LPS BETTAHALLI               |35878|0|8|6|4|6|1|0
+262| hosakote | nelavagilu      | GULPS SIDDANAHALLI             |36802|0|2|3|3|2|0|0
