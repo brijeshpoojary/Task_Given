@@ -1,0 +1,124 @@
+block|old_cluster|school_name|school_id|cluster_id|new_cluster|||||
+bangalore anekal|hebbagodi|GKHPS Igluru|32703|9161|chandapura|||||
+bangalore anekal|neralooru|GKHPS Muthanalluru|33393|9161|chandapura|||||
+bangalore anekal|neralooru|GKHPS Singana agrahara|33394|9161|chandapura|||||
+bangalore anekal|neralooru|GKLPS Narayana ghatta|33399|9161|chandapura|||||
+bangalore anekal|harappana halli|GKHPS RAGIHALLI|32627|9088|mantapa|||||
+bangalore anekal|hebbagodi|GKLPS BANAHALLI|32708|9161|chanda pura|||||
+bangalore anekal|hebbagodi|GKLPS LAXMISAGAR|32710|9161|chanda pura|||||
+bangalore anekal|hebbagodi|GKHPS SHEELALIGE|32702|9161|chanda pura|||||
+bangalore anekal|hebbagodi|GKHPS RAMSAGARA|32707|9161|chanda pura|||||
+bangalore anekal|huskuru|GKMPS KOODLU|32862|8949|hebbagodi|||||
+bangalore anekal|chikkahosahalli|GKHPS SURAGAJAKKANAHAL|32517|8955|haragadde||||| 
+bangalore anekal|hennagara|GKHPS KOPPAGATE|33432|8801|jigani|||||
+bangalore anekal|hennagara|GKHPS KOPPAGATE|33431|8801|jigani|||||
+bangalore anekal|harapanahalli|GKLPS ANNAYYANADODDI|32618|9088|mantapa|||||
+bangalore anekal|haragadde|GKLPS H. Manchanahalli|32809|8801|jigani|| |||
+bangalore anekal|anekal urdu|GUHPS Shikaripalya|33387|8872|hennagara |||||
+bangalore anekal|hebbagodi|GKHPS CHATHRAKANE|32700|9161|chandapura|||||
+bangalore north 1|rajajinagar|GKHPS JUGANAHALLI|33310|9166|juganahalli|||||
+bangalore north 1|rajajinagar|GKHPS RAJAJINAGAR 5TH AND 6TH BLOCK|32828|9166|juganahalli|||||
+bangalore north 1|machohalli|GKHPS MALLASANDRA MACHOHALLI|32753|9007|sondekoppa|||||
+bangalore north 1|machohalli|GKLPS DEVINANJAYYANAPALYA|32759|9007|sondekoppa|||||
+bangalore north 1|machohalli|GKHPS RAVUTHANAHALLI|32754|9007|sondekoppa|||||
+bangalore south 1|hosakere halli|GKLPS Chikkalasandra|32739|8956|uttarahalli|||||
+bangalore south 1|ganapathi halli|GKLPS C K Thandya|32111|9156|ramohalli|||||
+bangalore south 1|kumbalagodu|GKLPS GAVIYANAPALYA|31984|8855|k gollahalli|||||
+bangalore south 1|taverkere|GKHPS DEVAMACHOHALLI|32232|9157|cholanayakanahalli|||||
+bangalore south 1|vajarahalli|GKHPS GANIGARAPALYA|32865|8956|uttarahalli|||||
+bangalore south 1|uttarahalli|GKLPS YADALAMA NAGARA|32820|9167|vasanthapura|||||
+bangalore south 1|kengeri|GKLPS Rachanamadu|32430|8961|vajarahalli|||||
+bangalore south 1|kumbalagodu|GKLPS Devagere colony|31982|8855|k gollahalli|||||
+bangalore south 1|veerabadra nagar|GKHPS Channasandra veerabhadranagar|32926|8806|uttarahalli|||||
+bangalore south 1|karisandra|GUHPS Sarbande palya|32977|9168|sarakki |||||
+bangalore south 1|doddagollarahatti|GKHPS mariyappanapalya|33028|8968|mallathahalli|||||
+bangalore south 1|mallathahalli|GKHPS Papareddy palya|32970|8983|sunkadakatte janatha colony|||||
+bangalore south 1|kumbalagodu|GKHPS DEVAGERE|31976|8855|k gollahalli|||||
+bangalore south 1|kumbalagodu|GKLPS Gangasandra|31983|8855|k gollahalli|||||
+bangalore south 1|kumbalagodu|GKHPS Gonipura|31978|8855|k gollahalli|||||
+bangalore south 1|kumbalagodu|GKLPS Ullegoudanahalli|31990|8855|k gollahalli|||||
+bangalore south 1|kumbalagodu|GKLPS Seegehalli|31991|8855|k gollahalli|||||
+bangalore south 1|kumbalagodu|GKLPS Tippupur|31994|8855|k gollahalli|||||
+bangalore south 1|kumbalagodu|GKLPS Tittahalli|31993|8855|k gollahalli|||||
+bangalore south 1|kumbalagodu|GKHPS Gollahalli|31977|8855|k gollahalli|||||
+bangalore south 1|kumbalagodu|GKLPS Tagachaguppe|31992|8855|k gollahalli|||||
+bangalore south 1|ganapathihalli|GKLPS CHIKKALLURU|32112|9156|ramohalli|||||
+bangalore south 1|ganapathihalli|GKLPS SUBBARAYANAPALYA|32121|9156|ramohalli|||||
+bangalore south 1|ganapathihalli|GKHPS KOLURU|32110|9156|ramohalli|||||
+bangalore south 1|ganapathihalli|GKHPS GOPALANAGAR|32114|9156|ramohalli|||||
+bangalore south 1|tavarekere|GKLPS YELLAPPANAPALYA|32248|9157|cholanayakanahalli|||||
+bangalore south 1|tavarekere|GKLPS VADAHALLI|32246|9157|cholanayakanahalli|||||
+bangalore south 1|tavarekere|GKLPS PEDDANAPALYA|32245|9157|cholanayakanahalli|||||
+bangalore south 1|tavarekere|GKLPS GANGAPPANAHALLI|32239|9157|cholanayakanahalli|||||
+bangalore south 1|tavarekere|GKLPS GANAKALLU|32238|9157|cholanayakanahalli|||||
+bangalore south 1|tavarekere|GKLPS KEMPAGONDANAHALLI|32241|9157|cholanayakanahalli|||||
+bangalore south 1|tavarekere|GKLPS MARENAHALLI(TAVAREKER)|32243|9157|cholanayakanahalli|||||
+bangalore south 1|tavarekere|GKLPS JOGARAHALLI|32240|9157|cholanayakanahalli|||||
+bangalore south 1|ramasandra|GKHPS Ramohalli|32534|9156|ramohalli|||||
+bangalore south 1|ramasandra|GKLPS Vinayaka nagar|32549|9156|ramohalli|||||
+bangalore south 1|ramasandra|GULPS Bheemana kuppe|32547|9156|ramohalli|||||
+bangalore south 1|ramasandra|GKLPS Bheemana kuppe|32537|9156|ramohalli|||||
+bangalore south 1|ramasandra|GKLPS Challaghatta|32538|9156|ramohalli|||||
+bangalore south 1|ramasandra|GKLPS Maligondana halli|32544|9156|ramohalli|||||
+bangalore south 1|kaggalipura|GKHPS Somanahalli|32730|9158|somanahalli|||||
+bangalore south 1|kaggalipura|GKLPS Nawkal palya|32725|9158|somanahalli|||||
+bangalore south 1|kaggalipura|GKHPS Ravgodlu|32718|9158|somanahalli|||||
+bangalore south 1|kaggalipura|GKHPS Mukkodlu|32716|9158|somanahalli|||||
+bangalore south 2|k p agrahara|GEHPS K.P Agarahara|32345|9169|binnipate|||||
+bangalore south 2|k p agrahara|GKHPS K.P Agrahara|32347|9169|binnipate|||||
+bangalore south 2|kalasipalya|GUHPBS SULTHANPET|32445|8902|chamarajapete|||||
+bangalore south 2|kalasipalya|GUHPGS SULTHANPET|32452|8902|chamarajapete|||||
+bangalore south 2|chamarajpet|GTLPS ANANDAPURAM|32130|8928|kalasipalya|||||
+bangalore south 2|chamarajpet|GKMPS CARP LANE|32127|8928|kalasipalya|||||
+bangalore south 2|chamarajpet|GKLPS ANANDAPURA (CHAMARAJPET)|32126|8928|kalasipalya|||||
+bangalore south 2|arundathinagar|GUHPS Gangondanahalli|33084|9170|gangondahalli|||||
+bangalore south 2|byatarayanapura|GUHPS Roshan nagar|32004|9170|gangondahalli|||||
+bangalore south 2|chamrajpete|GUMPS Padarayana pura|32135|9171|goripalya|||||
+bangalore south 2|hosahalli|GUHPS Guddadahalli|32253|9170|gangondahalli|||||
+bangalore south 2|chamrajpete|GUHPBS JJR Nagar|32132|9171|goripalya|||||
+bangalore south 2|chamrajpete|GKHPS Janatah colony|32124|9171|goripalya|||||
+bangalore south 2|chamrajpete|GKMPS Padarayanapura|32128|9171|goripalya|||||
+bangalore south 2|arundathinagar|GKMPS ATTIGUPPE|33081|9159|attiguppe|||||
+bangalore south 2|arundathinagar|GKHPS PANTHARAPALYA|33079|9159|attiguppe|||||
+bangalore south 2|arundathinagar|GUHPS PANTHARAPALYA|33085|9159|attiguppe|||||
+bangalore south 2|hosahalli|GULPS RASOOL NAGAR|32255|9160|bapujinagar|||||
+bangalore south 2|hosahalli|GKMPS NEW GUDDADAHALLI|32252|9160|bapujinagar|||||
+bangalore south 2|hosahalli|GKHPS BAPUJINAGAR|32251|9160|bapujinagar|||||
+bangalore south 2|byatarayanapura|GKHPS DEEPANJALI NAGAR|32000|9160|bapujinagar|||||
+bangalore south 3|gottigere|GULPS Madeena Nagara|32357|8937|madivala|||||
+bangalore south 3|gottigere|GKHPS NS PALYA|32356|8937|madivala|||||
+bangalore south 3|yellukunte|GUMPS BOMMANAHALLI|32650|9162|hungasandra|||||
+bangalore south 3|beratena agrahara|GKHPS GOVINDASHETTIPALYA|33100|9163|singasandra|||| |
+bangalore south 3|beratena agrahara|GKHPS VITTASANDRA|33103|9163|singasandra|||||
+bangalore south 3|beratena agrahara|GKHPS BASAPURA|33104|9163|singasandra|||||
+bangalore south 3|beratena agrahara|GKHPS BETTADASANAPURA|33097|9163|singasandra|||||
+bangalore south 3|beratena agrahara|GKHPS KENDRAKARAGRAHA|33101|9163|singasandra|||||
+bangalore south 3|beratena agrahara|GKHPS KONAPPANA AGRAHARA|33102|9163|singasandra|||||
+bangalore south 3|beratena agrahara|GKLPS CHIKKATHOGURU|33105|9163|singasandra|||||
+bangalore south 3|beratena agrahara|GKHPS DODDATOGURU|33099|9163|singasandra|||||
+bangalore south 3|yellukunte|GKHPS Garvebhavi palya|32640|9162|hongasandra|||||
+bangalore south 3|yellukunte|GKHPS Singasandra|32643|9163|singasandra|||||
+bangalore south 3|yellukunte|GKHPS Haralakunte|32641|9162|hongasandra|||||
+bangalore south 3|yellukunte|GKMPS Bommanahalli|32647|9162|hongasandra|||||
+bangalore south 3|yellukunte|GUHPS Mangammana palya|32651|9162|hongasandra|||||
+bangalore south 3|yellukunte|GKMPS Hongasandra|32648|9162|hongasandra|||||
+bangalore south 4|varthur|GKHPS HARLOOR|32910|8907|doddakannali|||||
+bangalore south 4|immadihalli|GKMPS KADUGODI|33332|8897|chansandra|||||
+bangalore south 4|varthur|GKLPS KARIAMMANA AGRAHARA|32911|8947|maratahalli|||||
+bangalore south 4|hoodi|GKHPS KUNDALAHALLI|32303|8947|maratahalli|||||
+bangalore south 4|varthur|GKHPS RAMAGONDANAHALLI|32898|8947|immadihalli|||||
+bangalore south 4|varanasi|GKHPS JODIHUSKUR|32846|9011|jodihuskuru|||||
+bangalore south 4|kylasanahalli|GKLPS NAGARESHWARA NAGENAHALLI|32604|8954|tanisandra|||||
+bangalore south 4|immadihalli|GKLPS A K G Colony|33344|8897|channasandra|||||
+bangalore south 4|varthuru|GKLPS Thubarahalli|32905|9010|immadihalli|||||
+bangalore south 4|immadihalli|GKLPS Kumbena agahara|33343|8897|channasandra|||||
+bangalore south 4|sambmangala|GKLPS Aravantige pura|33425|9172|mayasandra |||||
+bangalore south 4|varanasi|GKHPS RAMPURA|32840|9164|bidrahalli|||||
+bangalore south 4|varanasi|GKHPS DODDAGUBBI|32839|9164|bidrahalli|||||
+bangalore south 4|varanasi|GKHPS BAYYAPPANAHALLI|32842|9164|bidrahalli|||||
+bangalore south 4|varanasi|GKHPS BIDARAHALLI|32842|9164|bidrahalli|||||
+bangalore south 4|varanasi|GKHPS HIRANDAHALLI|32845|9164|bidrahalli|||||
+bangalore south 4|varanasi|GKLPS KADAAGRAHARA|32848|9164|bidrahalli|||||
+bangalore south 4|varanasi|GKLPS SADURU|32847|9164|bidrahalli|||||
+bangalore south 4|varanasi|GKLPS KAMMASANDRA (VARANASI)|32849|9164|bidrahalli|||||
+bangalore north 4|chikkajala|GKHPS vidyanagar|33267|8814|hunasamaranahalli|||||

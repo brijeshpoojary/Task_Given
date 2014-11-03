@@ -74,7 +74,7 @@ def main():
   tests=['pre','post']
   
 
-  outputfile.write("DIST|PROJ|CIRCLE|SCODE|SNAME|STUID|CNAME|CSEX|DOB|CLANG|ASSMNTNAME")
+  outputfile.write("DIST|PROJ|CIRCLE|SCODE|SNAME|STUID|CNAME|CSEX|DOB|CLANG")
   for e in range (0,len(edetails["pre"])):
     outputfile.write("|"+edetails["pre"][e])
   for e in range (0,len(edetails["post"])):

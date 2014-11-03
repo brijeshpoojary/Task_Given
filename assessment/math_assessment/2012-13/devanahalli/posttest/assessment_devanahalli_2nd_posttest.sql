@@ -5,14 +5,14 @@ s.id as school_code,
 s.name school_name,
 moi.name as moi,
 stu.id as student_id,
-concat_ws('',c."firstName",' ',c."middleName",' ',c."lastName") as child_name,
+concat_ws('',c.first_name,' ',c.middle_name,' ',c.last_name) as child_name,
 c.gender as gender,
 mt.name as mother_tongue,
 sg.name || sg.section as class_section,
 assess.name as assessment_name,
 prog.name as programme_name,
 ques.name as question,
-case when ans.status=-99999 then 'AB' else case when ans.status=-1 then 'NA' else cast(ans."answerScore" as text) end end as answerscore 
+case when ans.status=-99999 then 'AB' else case when ans.status=-1 then 'NA' else cast(ans.answer_score as text) end end as answerscore 
 from 
 schools_institution as s,
 schools_boundary as b,

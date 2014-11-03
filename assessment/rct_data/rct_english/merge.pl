@@ -13,15 +13,15 @@ my (%stud, %assess);
 while (<INP>) {
     chomp;
     my @d = split(/\|/);
-    $stud{$d[5]}{data} = [ @d[0..15] ];
-    $stud{$d[5]}{$d[16]} = $d[17];
-    $assess{$d[16]} = 1;
+    $stud{$d[5]}{data} = [ @d[0..14] ];
+    $stud{$d[5]}{$d[15]} = $d[16];
+    $assess{$d[15]} = 1;
 }
 close(INP);
 
 # print Dumper(\%stud);
 
-print 'DIST|BLK|CLUST|SCODE|SNAME|STUID|CNAME|GENDER|DOB|MOTHER|FATHER|MT|CLASS|PROGNAME|STARTDATE|ASSMNTNAME|';
+print 'DIST|BLK|CLUST|SCODE|SNAME|STUID|CNAME|GENDER|DOB|FATHER|MOTHER|MT|CLASS|PROGNAME|ASSMNTNAME|';
 foreach my $a (sort keys %assess) {
     print join('|',$a), '|';
 }

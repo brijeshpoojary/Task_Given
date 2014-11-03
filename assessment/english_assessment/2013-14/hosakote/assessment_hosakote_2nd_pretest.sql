@@ -14,7 +14,7 @@ prog.name as programme_name,
 assess.start_date as start_date,
 assess.name as assessment_name,
 ques.name as question,
-case when ans.status=-99999 then 'AB' else case when ans.status=-1 then 'NA' else case when ans.answer_score is null then '0' else cast(ans.answer_score as text) end end end as answer_score
+case when ans.status=-99999 then 'AB' else case when ans.status=-1 then 'NA' else case when ans.answer_grade is null then '0' else cast(ans.answer_grade as text) end end end as answer_score
 from 
 schools_institution as s,
 schools_boundary as b,
@@ -36,11 +36,11 @@ s.boundary_id=b.id
 and b.parent_id=b1.id 
 and b1.parent_id=b2.id 
 and b1.id=587
-and assess.id=127
+and assess.id=187
 and assess.programme_id=prog.id
 and s.id=sg.institution_id
 and sg.id=ssg.student_group_id
-and ssg.academic_id='121' 
+and ssg.academic_id='122' 
 and ssg.student_id=stu.id	
 and stu.child_id=c.id 
 and c.mt_id=mt.id

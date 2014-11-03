@@ -11,7 +11,7 @@ sg.name || sg.section as class_section,
 assess.name as assessment_name,
 prog.name as programme_name,
 ques.name as question,
-ans."answerGrade" as answergrade 
+ans.answer_grade as answergrade 
 from 
 schools_institution as s,
 schools_boundary as b,
